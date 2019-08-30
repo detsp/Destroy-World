@@ -1,2 +1,5 @@
 # Destroy-World
-Just want the world destroyed
+
+Humans!
+Just want the world destroyed.
+To destroy the world first you should destroy human.
